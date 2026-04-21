@@ -62,14 +62,6 @@ Computer Science Undergraduate (AI & ML) | Python Developer | Data Analysis | Ma
 - Computer Vision  
 - OpenCV  
 
-### Data Visualization
-<p>
-<img src="https://skillicons.dev/icons?i=matplotlib">
-</p>
-
-- Power BI  
-- Tableau  
-- Excel  
 
 ### Tools
 <p>
