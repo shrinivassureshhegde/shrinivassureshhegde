@@ -12,7 +12,7 @@ Computer Science Undergraduate (AI & ML) | Python | Deep Learning | Machine Lear
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Engineering Student specializing in **Artificial Intelligence and Machine Learning**
+🎓 Computer Science Engineering Student specialized in **Artificial Intelligence and Machine Learning**
 
 📊 Interested in **Deep Learning, Machine Learning, and AI systems**
 
