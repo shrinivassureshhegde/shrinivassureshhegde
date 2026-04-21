@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrinivas Suresh Hegde</h1>
 
 <p align="center">
-Computer Science Undergraduate (AI & ML) | Python Developer | Data Analysis | Machine Learning
+Computer Science Undergraduate (AI & ML) | Python | Deep Learning | Machine Learning
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ Computer Science Undergraduate (AI & ML) | Python Developer | Data Analysis | Ma
 
 🎓 Computer Science Engineering Student specializing in **Artificial Intelligence and Machine Learning**
 
-📊 Interested in **Data Analysis, Machine Learning, and AI systems**
+📊 Interested in **Deep Learning, Machine Learning, and AI systems**
 
 💡 Skilled in **EDA, Feature Engineering, and Model Evaluation**
 
