@@ -5,7 +5,7 @@ Computer Science Undergraduate (AI & ML) | Python | Deep Learning | Machine Lear
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+Machine+Learning+Student;Python;Deep+Learning+Enthusiast;Building+Real+World+Projects">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+Machine+Learning;Python;Deep+Learning+Enthusiast;Building+Real+World+Projects">
 </p>
 
 ---
