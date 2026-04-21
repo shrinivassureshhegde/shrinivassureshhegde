@@ -70,38 +70,9 @@ Computer Science Undergraduate (AI & ML) | Python Developer | Data Analysis | Ma
 
 - Jupyter Notebook  
 - MySQL  
-
----
-
-# 🚀 Projects
-
-## Adaptive AI System for Network Intrusion Detection
-**Tech Stack:** Python, LightGBM, Scikit-learn, SQL
-
-- Performed exploratory data analysis on large scale network datasets  
-- Applied feature engineering to improve model performance  
-- Built real time packet capture pipeline using **Scapy**  
-- Evaluated models using precision, recall, F1 score and confusion matrix  
-- Implemented **drift detection for adaptive model retraining**
-
----
-
-## Smart Attendance System Using Face Recognition
-**Tech Stack:** Python, OpenCV
-
-- Developed AI based facial recognition attendance system  
-- Processed and analyzed image data for improved accuracy  
-- Implemented structured logs for attendance storage and tracking  
-
----
-
-## Hospital Management System
-**Tech Stack:** MySQL, Database Design
-
-- Designed relational database schemas for hospital data  
-- Implemented SQL queries for patient visits and doctor workload  
-- Applied normalization and ensured efficient data retrieval  
-
+- VS Code
+- PyCharm
+- Google Colab
 ---
 
 # 💼 Experience
@@ -119,16 +90,6 @@ Computer Science Undergraduate (AI & ML) | Python Developer | Data Analysis | Ma
 
 **Bachelor of Engineering in Computer Science (AI & ML)**  
 Visvesvaraya Technological University  
-
-CGPA: **8.6 / 10**
-
----
-
-# 📜 Certifications
-
-- Ethical Hacking – IIT Kharagpur  
-- Digital Skills: Artificial Intelligence – Accenture / FutureLearn  
-- Networking Basics – Cisco Networking Academy  
 
 ---
 
