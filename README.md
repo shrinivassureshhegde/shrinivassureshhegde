@@ -93,14 +93,6 @@ Visvesvaraya Technological University
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shrinivassureshhegde&show_icons=true&theme=tokyonight">
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
