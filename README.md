@@ -61,8 +61,6 @@ Java Full Stack Developer | Spring Boot | React | SQL | Building Scalable Web Ap
 </p>
 
 - Spring Boot
-- Spring MVC
-- Spring Data JPA
 - Hibernate
 - RESTful APIs
 
