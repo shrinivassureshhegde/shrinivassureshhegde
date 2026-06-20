@@ -20,7 +20,7 @@ Java Full Stack Developer | Spring Boot | React | SQL | Building Scalable Web Ap
 
 🌱 Currently improving my skills in Spring Boot, Microservices, React, and Cloud Technologies
 
-📫 Reach me: **shrinivashegde59@gmail.com**
+📫 Reach me: **shrinivashegde.jobs@gmail.com**
 
 ---
 
