@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Shrinivas Suresh Hegde</h1>
 
 <p align="center">
-Computer Science Undergraduate (AI & ML) | Python | Deep Learning | Machine Learning
+Java Full Stack Developer | Spring Boot | React | SQL | Building Scalable Web Applications
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+Machine+Learning;Python;Deep+Learning+Enthusiast;Building+Real+World+Projects">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Spring+Boot;Full+Stack+Development;REST+API+Development;React+Developer">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Engineering Student specialized in **Artificial Intelligence and Machine Learning**
+🎓 Computer Science Engineering Graduate
 
-📊 Interested in **Deep Learning, Machine Learning, and AI systems**
+💻 Passionate about Full Stack Application Development
 
-💡 Skilled in **EDA, Feature Engineering, and Model Evaluation**
+🚀 Building scalable and efficient web applications using Java technologies
 
-🚀 Actively building **real world AI and Data projects**
+🌱 Currently improving my skills in Spring Boot, Microservices, React, and Cloud Technologies
 
 📫 Reach me: **shrinivashegde59@gmail.com**
 
@@ -27,72 +27,104 @@ Computer Science Undergraduate (AI & ML) | Python | Deep Learning | Machine Lear
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/shrinivas-suresh-hegde"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-<a href="https://github.com/shrinivassureshhegde"><img src="https://skillicons.dev/icons?i=github"></a>
+<a href="https://linkedin.com/in/shrinivas-suresh-hegde">
+<img src="https://skillicons.dev/icons?i=linkedin">
+</a>
+
+<a href="https://github.com/shrinivassureshhegde">
+<img src="https://skillicons.dev/icons?i=github">
+</a>
 </p>
 
 ---
 
-# 🧠 Technical Skills
+# 🛠️ Technical Skills
 
-### Programming Languages
+## Programming Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql">
+<img src="https://skillicons.dev/icons?i=java,js,mysql">
 </p>
 
-### Data Analysis
-- Pandas  
-- NumPy  
-- Exploratory Data Analysis (EDA)  
-- Data Cleaning  
-- Feature Engineering  
+- Core Java
+- Object-Oriented Programming
+- Collections Framework
+- Exception Handling
+- Multithreading
 
-### Machine Learning
-- Scikit-learn  
-- LightGBM  
-- Supervised Learning  
-- Unsupervised Learning  
-- Model Evaluation  
+---
 
-### Deep Learning
-- TensorFlow  
-- CNN  
-- DNN  
-- BiLSTM  
-- Computer Vision  
-- OpenCV  
+## Backend Development
 
-
-### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,vscode">
+<img src="https://skillicons.dev/icons?i=spring">
 </p>
 
-- Jupyter Notebook  
-- MySQL  
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- RESTful APIs
+
+---
+
+## Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react">
+</p>
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Responsive Web Design
+
+---
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql">
+</p>
+
+- MySQL
+- SQL Queries
+- Database Design
+- Stored Procedures
+
+---
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman">
+</p>
+
+- Git
+- GitHub
+- Eclipse IDE
 - VS Code
-- PyCharm
-- Google Colab
----
-
-# 💼 Experience
-
-### Data Annotator (Freelance)
-
-- Annotated datasets for computer vision and NLP models  
-- Worked on image classification and object detection tasks  
-- Performed quality validation on labeled datasets  
-- Supported machine learning training pipelines  
+- Postman
 
 ---
 
 # 🎓 Education
 
-**Bachelor of Engineering in Computer Science (AI & ML)**  
-Visvesvaraya Technological University  
+**Bachelor of Engineering in Computer Science (AI & ML)**
+
+Visvesvaraya Technological University (VTU)
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrinivassureshhegde&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivassureshhegde&theme=tokyonight" />
+</p>
+
+---
 
 # 👀 Profile Views
 
