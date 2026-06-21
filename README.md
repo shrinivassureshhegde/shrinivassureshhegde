@@ -20,6 +20,33 @@ Java Full Stack Developer | Spring Boot | React | SQL | Building Scalable Web Ap
 
 🌱 Currently improving my skills in Spring Boot, Microservices, React, and Cloud Technologies
 
+---
+
+# 💼 Freelance Experience
+
+### Data Annotation Freelancer | RWS Group
+
+- Annotated and validated datasets for Artificial Intelligence and Machine Learning projects.
+- Performed image, text, and data labeling tasks while maintaining high quality standards.
+- Contributed to dataset preparation and quality assurance for AI model training.
+- Ensured accuracy, consistency, and compliance with project guidelines.
+
+### Data Annotation Freelancer | Innodata
+
+- Worked on AI data annotation and data enrichment projects.
+- Labeled, reviewed, and validated large-scale datasets for machine learning applications.
+- Assisted in improving data quality for model development and evaluation.
+- Maintained high annotation accuracy and timely project delivery.
+
+### Key Achievements
+
+- Annotated 500+ data assets across multiple AI projects.
+- Maintained 95%+ annotation quality and accuracy.
+- Experienced in image, text, and data labeling workflows.
+- Familiar with AI dataset preparation and quality validation processes.
+
+---
+
 📫 Reach me: **shrinivashegde.jobs@gmail.com**
 
 ---
